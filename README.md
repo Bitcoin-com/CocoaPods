@@ -1,4 +1,4 @@
-# Public Bitcoin.com CocoaPods
+# Bitcoin.com CocoaPods
 
 Interact with this repo
 ```bash
